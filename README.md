@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GalactHD
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in create games
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing (yet)...
 - 📫 How to reach me It ends up being difficult, but then maybe it will be possible ...
 
