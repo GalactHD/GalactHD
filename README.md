@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @GalactHD
-- 👀 I’m interested in create games
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing (yet)...
-- 📫 How to reach me It ends up being difficult, but then maybe it will be possible...
+## Eu sou o GalactHD :)
 
 ![GalactHD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalactHD&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galacthd&layout=compact&theme=dark)
