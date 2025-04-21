@@ -1,5 +1,3 @@
-# Hi!
-
 ```ps1
 > neofetch
 ```
