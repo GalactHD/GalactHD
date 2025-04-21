@@ -10,7 +10,8 @@
 C:\Users\GalactHD\GitHub>
 -------------------------
 OS: Windows 
-Shell: Powershell 5.1 
+Shell: Powershell 5.1
+Location: Brasil?!?!
 ```
 
 <details>
