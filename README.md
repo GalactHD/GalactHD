@@ -10,8 +10,8 @@ C:\Users\GalactHD\GitHub>
 OS: Windows 
 Shell: Powershell 5.1
 Location: Brasil?!?!
-Languages: Typescript/Javascript, C#
-Learning: SQL, Lua
+Languages: Typescript/Javascript, Astro, C#
+Learning: SQL, Lua, Svelte
 ```
 
 <details>
