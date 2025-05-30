@@ -8,8 +8,8 @@
 C:\Users\GalactHD\GitHub>
 -------------------------
 OS: Windows 
-Shell: Powershell 5.1
-Location: Brasil?!?!
+Shell: Powershell 7.2
+Location: Brasil
 Languages: Typescript/Javascript
 Frameworks: Astro, Svelte, Hono
 Learning: SQL, Lua, C#
