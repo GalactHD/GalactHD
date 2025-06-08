@@ -1,17 +1,32 @@
-```ps1
-> neofetch
-```
+```csproj
+<Project Sdk="GalactHD">
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Las janelas" width="290" /> 
+  <PropertyGroup>
+    <Username>GalactHD</Username>
+     <Os>Windows</Os>
+    <Shell>PowerShell 7.2</Shell>
+    <Location>Brazil</Location>
+    <Status>Learning</Status>
+  </PropertyGroup>
 
-```csharp
-C:\Users\GalactHD\GitHub>
--------------------------
-OS: Windows 
-Shell: Powershell 7.2
-Location: Brasil
-Languages: Typescript/Javascript
-Frameworks: Astro, Svelte, Hono
-Learning: SQL, Lua, C#
+  <ItemGroup>
+    <Languages>
+      <Language>TypeScript</Language>
+      <Language>JavaScript</Language>
+    </Languages>
+    <Frameworks>
+      <Framework>Astro</Framework>
+      <Framework>Svelte</Framework>
+      <Framework>Hono</Framework>
+    </Frameworks>
+    <CurrentlyLearning>
+      <Language>SQL</Language>
+      <Language>Lua</Language>
+      <Language>C#</Language>
+    </CurrentlyLearning>
+  </ItemGroup>
+
+</Project>
+
 ```
 
