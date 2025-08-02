@@ -15,9 +15,9 @@
       <Language>JavaScript</Language>
     </Languages>
     <Frameworks>
-      <Framework>Astro</Framework>
-      <Framework>Svelte</Framework>
-      <Framework>Hono</Framework>
+      <Framework>Astro.js</Framework>
+      <Framework>Svelte.js</Framework>
+      <Framework>Hono.js</Framework>
     </Frameworks>
     <CurrentlyLearning>
       <Language>SQL</Language>
