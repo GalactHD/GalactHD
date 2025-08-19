@@ -21,7 +21,6 @@
     </Frameworks>
     <CurrentlyLearning>
       <Language>SQL</Language>
-      <Language>Lua</Language>
       <Language>C#</Language>
     </CurrentlyLearning>
   </ItemGroup>
