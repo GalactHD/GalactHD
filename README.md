@@ -3,14 +3,14 @@
 
   <PropertyGroup>
     <Username>GalactHD</Username>
-     <Os>Windows</Os>
-    <Shell>PowerShell 7.2</Shell>
     <Location>Brazil</Location>
     <Status>Learning</Status>
   </PropertyGroup>
 
   <ItemGroup>
     <Languages>
+      <Language>Crystal</Language>
+      <Language>C#</Language>
       <Language>TypeScript</Language>
       <Language>JavaScript</Language>
     </Languages>
@@ -18,10 +18,11 @@
       <Framework>Astro.js</Framework>
       <Framework>Svelte.js</Framework>
       <Framework>Hono.js</Framework>
+      <Language>Sinatra</Language>
     </Frameworks>
     <CurrentlyLearning>
       <Language>SQL</Language>
-      <Language>C#</Language>
+      <Language>Ruby</Language>
     </CurrentlyLearning>
   </ItemGroup>
 
