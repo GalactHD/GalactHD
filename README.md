@@ -18,7 +18,7 @@
       <Framework>Astro.js</Framework>
       <Framework>Svelte.js</Framework>
       <Framework>Hono.js</Framework>
-      <Language>Sinatra</Language>
+      <Framework>Sinatra</Framework>
     </Frameworks>
     <CurrentlyLearning>
       <Language>SQL</Language>
