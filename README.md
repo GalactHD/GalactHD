@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Username>GalactHD</Username>
     <Location>Brazil</Location>
-    <Status>Learning</Status>
+    <Status>Something</Status>
   </PropertyGroup>
 
   <ItemGroup>
@@ -22,6 +22,7 @@
     </Frameworks>
     <CurrentlyLearning>
       <Language>SQL</Language>
+      <Language>Crystal</Language>
       <Language>Ruby</Language>
     </CurrentlyLearning>
   </ItemGroup>
