@@ -1,6 +1,5 @@
 ```csproj
 <Project Sdk="GalactHD">
-
   <PropertyGroup>
     <Username>GalactHD</Username>
     <Location>Brazil</Location>
@@ -15,18 +14,17 @@
       <Language>JavaScript</Language>
     </Languages>
     <Frameworks>
-      <Framework>Astro.js</Framework>
-      <Framework>Svelte.js</Framework>
-      <Framework>Hono.js</Framework>
+      <Framework>Astro</Framework>
+      <Framework>Svelte</Framework>
+      <Framework>Rails</Framework>
       <Framework>Sinatra</Framework>
     </Frameworks>
     <CurrentlyLearning>
-      <Language>SQL</Language>
+      <Language>Postgres</Language>
       <Language>Crystal</Language>
       <Language>Ruby</Language>
     </CurrentlyLearning>
   </ItemGroup>
-
 </Project>
 
 ```
